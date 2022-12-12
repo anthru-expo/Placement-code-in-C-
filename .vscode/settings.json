@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "regex": "cpp",
+        "array": "cpp",
+        "bitset": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp",
+        "valarray": "cpp",
+        "cstring": "cpp",
+        "list": "cpp",
+        "*.tcc": "cpp",
+        "exception": "cpp",
+        "stack": "cpp",
+        "string": "cpp",
+        "istream": "cpp",
+        "deque": "cpp",
+        "vector": "cpp",
+        "new": "cpp",
+        "typeindex": "cpp",
+        "typeinfo": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
